@@ -1,1 +1,147 @@
-https://github.com/Jagat-Teknologi-Indonesia/SOP-Keuangan-dan-Pajak-21-23/issues/2#issue-1192863424
+### membahas proses uang masuk
+pada saat menerima kas masuk, yang harus dilakukan adalah:
+1. memastikan dari mana kas masuk berasal.
+2. apakah kas masuk berasal dari penerimaan modal
+3. apakah kas masuk berasal dari uang muka atau penjualan produk dan jasa.
+4. apakah kas masuk berasal dari retur pembelian.
+
+selanjutnya adalah melakukan pernjurnalan menggunakan aplikasi keuangan. dalam case ini, perusahaan menggunakan aplikasi accurate online. langkah yang harus dilakukan adalah:
+
+1. melakukan login ke aplikasi keuangan. ![image](https://user-images.githubusercontent.com/93314978/161723831-77236bf6-5a7e-4d05-8589-2b13a17f1735.png)
+2. memilih database 
+![image](https://user-images.githubusercontent.com/93314978/161724166-de5bf9b4-93bb-4482-add4-304d0f87f1e9.png)
+
+### apabila kas masuk diterima dari modal saham:
+
+1. pastikan bukti penerimaan adalah sah dan cross cek dengan pihak terkait.
+2. apabila bukti penerimaan adalah jenis yang mudah hilang dalam waktu, lakukan copy bukti penerimaan.
+3. memilih menu kas
+4. memilih menu penerimaan ![image](https://user-images.githubusercontent.com/93314978/161732012-18fc06f4-c263-4d98-91e3-ded1d2f32cc3.png)
+5. memilih kas atau bank tempat kas diterima ![image](https://user-images.githubusercontent.com/93314978/161732094-5522096e-d46d-47f7-9c6e-83e8d1d676da.png)
+6. memilih tanggal uang diterima ![image](https://user-images.githubusercontent.com/93314978/161732219-a40283ee-2c7e-471b-9aac-5eb940361d8d.png)
+7. memilih akun perkiraan dari mana kas diterima, dalam case ini adalah dari modal saham ![image](https://user-images.githubusercontent.com/93314978/161732488-443219cc-6937-4397-8fc2-3bdbf8ee01fe.png)
+8. isikan nilai kas masuk yang diterima 
+![image](https://user-images.githubusercontent.com/93314978/161732936-68b58342-d785-4a24-bbcc-8071fead3f13.png)
+
+9. pilih kolom catatan
+10. tulis catatan mengenai kas masuk yang diterima 
+![image](https://user-images.githubusercontent.com/93314978/161733226-54120be5-7db2-4926-9404-72374d89530c.png)
+
+11. pilih lanjut.
+12. pencet tombol i, untuk membuka info lainnya dalam jurnal
+13. tambahkan catatan untuk jurnal yang telah dibuat.
+![image](https://user-images.githubusercontent.com/93314978/161733509-6d6922a8-17bc-4ebe-8840-90fa0f226fa0.png)
+
+14. tambahkan pemberi kas untuk transaksi tersebut.
+![image](https://user-images.githubusercontent.com/93314978/161733520-a405defa-cfbd-4056-a550-3b977ab61f2b.png)
+
+15. lalu pilih cetak di sebelah kanan.
+![image](https://user-images.githubusercontent.com/93314978/161726148-32359a36-3af2-4143-ad7a-6da5499abe8e.png)
+
+16. setelah di cetak, staples bukti invoice atau nota di belakang lembar voucher yang telah di print.
+17. buat 2 copy untuk penerimaan tersebut, 1 dengan bukti asli diarsip di ordner khusus penerimaan. yang 1 lainnya dengan bukti copy, disimpan bersama jurnal yang lain.
+18. lalu simpan sampai proses akhir bulan.
+
+
+### apabila kas masuk diterima dari uang muka penjualan produk dan jasa:
+1. pastikan bukti penerimaan adalah sah dan cross cek dengan pihak terkait.
+2. apabila bukti penerimaan adalah jenis yang mudah hilang dalam waktu, lakukan copy bukti penerimaan.
+3. pilih menu penjualan
+4. pilih uang muka penjualan bila yang diterima berbentuk uang muka 
+![image](https://user-images.githubusercontent.com/93314978/161734719-c427b258-6014-43ef-8a23-cf0a21a8b09c.png)
+
+5. pilih konsumen yang memberikan uang muka
+![image](https://user-images.githubusercontent.com/93314978/161734857-0fd4daf7-fe59-4640-96cf-5f811d21d2f3.png)
+
+6. pilih tanggal diterima uang muka
+![image](https://user-images.githubusercontent.com/93314978/161735018-5e8ecbd9-4c20-4567-bf4c-8dc1bc484f84.png)
+
+7. pilih so, bila ada so yang sebelumnya telah dibuat
+![image](https://user-images.githubusercontent.com/93314978/161735195-e628be7b-7dde-4002-b55c-ff5be6c6fc80.png)
+
+8. isikan nominal uang muka
+![image](https://user-images.githubusercontent.com/93314978/161735257-e2c9b46d-961e-48dc-ad77-7c2b6cb81094.png)
+
+9. pencet tombol i, untuk membuka info lainnya dalam jurnal
+10. tambahkan alamat dan keterangan untuk jurnal yang telah dibuat.
+![image](https://user-images.githubusercontent.com/93314978/161735343-c5581138-27be-4b75-b892-543e40d34c4c.png)
+
+11. lalu pilih cetak di sebelah kanan.
+![image](https://user-images.githubusercontent.com/93314978/161736025-d73af9c9-53ae-4add-9aa0-244a6d699c1f.png)
+
+
+12. setelah di cetak, staples bukti penerimaan kas di belakang lembar voucher yang telah di print.
+13. lalu simpan sampai proses akhir bulan.
+
+
+
+### apabila kas masuk diterima dari penjualan produk dan jasa:
+
+1. pastikan bukti penerimaan adalah sah dan cross cek dengan pihak terkait.
+2. apabila bukti penerimaan adalah jenis yang mudah hilang dalam waktu, lakukan copy bukti penerimaan.
+3. pilih menu penjualan
+4. pilih faktur penjualan 
+![image](https://user-images.githubusercontent.com/93314978/161736912-20bea251-ccfb-445b-bdaa-c8e40865e1d9.png)
+
+5. Lengkapi field Pelanggan, Tanggal dan masukan pada bagian Cari/Pilih Barang & Jasa dengan barang yang akan dijual.
+![image](https://user-images.githubusercontent.com/93314978/161737051-825e3d4c-257c-4098-8e53-100ea6b1c4fb.png)
+
+6. Tentukan informasi detail atas barang yang dijual, lalu klik Lanjut.
+![image](https://user-images.githubusercontent.com/93314978/161737099-0d285361-7f58-4ae7-b939-8718212b9c73.png)
+
+7. Lakukan langkah 2 dan 3, untuk memasukan barang & jasa selanjutnya.
+8. Klik Simpan jika telah selesai.
+9. Klik cetak di sebelah kanan.
+10. setelah di cetak, staples bukti penerimaan kas di belakang lembar voucher yang telah di print.
+11. lalu simpan sampai proses akhir bulan.
+
+
+
+### apabila kas masuk diterima dari penjualan produk dan jasa, dipotongkan dari penerimaan uang muka sebelumnya:
+
+1. Klik menu Penjualan | Uang Muka Penjualan.
+![image](https://user-images.githubusercontent.com/93314978/161737428-3bee428b-4348-4e29-9c8a-c35af1508bfa.png)
+
+2. Tentukan informasi Pelanggan, Tanggal, Nilai Uang Muka, Kena Pajak.
+![image](https://user-images.githubusercontent.com/93314978/161737463-9dbf1beb-2c1f-445d-9b56-2dbcc54785d1.png)
+
+3. Klik Tombol Proses | Pembayaran. 
+![image](https://user-images.githubusercontent.com/93314978/161737495-165b0581-4d63-4443-a842-81773ee6f0fa.png)
+
+4. Lakukan proses pembayaran uang muka penjualan tsb, lalu klik Simpan pada formulir Pembayaran Penjualan. 
+![image](https://user-images.githubusercontent.com/93314978/161737560-6a4363d0-6ee4-4f29-a390-5377779703a9.png)
+
+5. Sampai tahap ini, Anda sudah mencatat penerimaan uang muka penjualan dari pelanggan.
+6. Setelah menerima uang muka penjualan, tiba pada tahapan untuk men settle atau memotongkan uang muka penjualan terhadap faktur barang yang dibeli oleh pelanggan. Caranya adalah sbb :
+7. Klik menu Penjualan | Faktur Penjualan. 
+![image](https://user-images.githubusercontent.com/93314978/161737687-8e33098d-74dd-4638-b679-952827a0ce05.png)
+
+8. Lengkapi informasi Nama Pelanggan yang sudah memberikan uang muka, dan masukan barang  yang dibeli. Kemudian klik Ambil lalu pilih Uang Muka. 
+![image](https://user-images.githubusercontent.com/93314978/161737715-b86f2c3b-61a4-4e48-aef2-923dba9581d5.png)
+
+12. Centang pada faktur Uang Muka Penjualan yang akan digunakan untuk memotong faktur penjualan barang, lalu klik Lanjut. 
+![image](https://user-images.githubusercontent.com/93314978/161737743-2bb6c231-eca5-4856-bad0-984ee773be12.png)
+
+13. Jika telah selesai klik Simpan.
+14. Klik cetak di sebelah kanan.
+15. setelah di cetak, staples bukti penerimaan kas di belakang lembar voucher yang telah di print.
+16. lalu simpan sampai proses akhir bulan.
+
+
+### selanjutnya adalah untuk membuat penerimaan penjualan adalah sbb :
+
+1. Klik menu Penjualan | Penerimaan Penjualan.
+![image](https://user-images.githubusercontent.com/93314978/161737986-d26d946e-ab50-4967-bec6-014944686c7d.png)
+
+2. Lengkapi informasi Terima Dari, Bank, dan informasi yang lain, lalu klik Ambil. 
+![image](https://user-images.githubusercontent.com/93314978/161738013-e3ef589d-a100-444d-b40b-429314982d79.png)
+
+3. Tentukan faktur penjualan yang akan dilunasi atau diterima pembayarannya dari pelanggan, lalu klik Lanjut. 
+![image](https://user-images.githubusercontent.com/93314978/161738046-b9ab2389-8b00-4678-a8aa-cc0a1fe46194.png)
+
+4. Klik tombol Hitung, dan jika telah selesai klik Simpan. 
+![image](https://user-images.githubusercontent.com/93314978/161738072-f4bc0e36-2fc0-4430-b13e-0346441b6858.png)
+
+5. Klik cetak di sebelah kanan.
+6. setelah di cetak, staples bukti penerimaan kas di belakang lembar voucher yang telah di print.
+7. lalu simpan sampai proses akhir bulan.
