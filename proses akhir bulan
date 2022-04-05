@@ -1,0 +1,48 @@
+### membahas proses yang dilakukan setiap akhir bulan periode
+proses akhir bulan ini dilakukan setelah semua transaksi dijurnalkan.
+
+1. Klik menu Kas & Bank | Rekonsiliasi Bank.
+![image](https://user-images.githubusercontent.com/93314978/161742424-77ecb06d-6bc4-4eb5-8a55-d5c23ca5cea3.png)
+
+2. Tentukan akun bank yang akan direkonsiliasi, lalu akan ditampilkan oleh Accurate Online nilai yang ada pada Histori Bank  
+![image](https://user-images.githubusercontent.com/93314978/161742468-e46f64e4-f689-414c-8187-89a360b452ba.png)
+
+3. Jika Anda tidak menggunakan fitur Internet Banking (mutasi yang didownload dari internet banking), maka Anda dapat langsung mengklik satu persatu pada bagian ada di Rekening Koran ketika dicocokan antara mutasi Histori Bank (Accurate) dengan Rekening Koran dari Bank.
+![image](https://user-images.githubusercontent.com/93314978/161742512-dc54bcf1-925b-4190-9399-3b439740ffc6.png)
+
+4. Jika Anda menggunakan fasilitas Internet Banking, maka klik tombol ‘Impor Data’ kemudian pilih “Impor File Mutasi” atau  ‘Impor Internet Banking’ dan  jika BCA Bisnis hanya “Impor File Mutasi”
+![image](https://user-images.githubusercontent.com/93314978/161742551-e6a80a68-e35d-4148-af31-c59a40d03068.png)
+![image](https://user-images.githubusercontent.com/93314978/161742572-4a9b9246-41ff-439e-bd2f-ce1583e15caf.png)
+
+5. Import File Mutasi dengan dengan file csv sedangkan Import Internet Banking dengan login yang sama saat akses ke https://ibank.klikbca.com/
+![image](https://user-images.githubusercontent.com/93314978/161742607-d9a21b2d-8461-47fa-90e8-d42f3b831c70.png)
+
+6. Klik Lanjut dan tunggu sampai ada konfirmasi ‘Impor Internet Banking telah berhasil di eksekusi’, yang menandakan proses impor transaksi telah berhasil dilakukan dan transaksi pada kolom Rekening Koran akan terisi sesuai dengan rekening koran pada Bank yang telah anda Impor.
+![image](https://user-images.githubusercontent.com/93314978/161742642-9ce6c469-f08d-4232-8b49-43230ec7ecbc.png)
+
+7. Klik Cocok, untuk mengkonfirmasi mutasi dari Rekening Koran dengan Histori Bank telah sesuai.
+![image](https://user-images.githubusercontent.com/93314978/161742684-50d368c4-a525-4adc-bc64-e85ce1cbf1e5.png)
+
+8. Setelah Anda klik Cocok, maka transaksi yang sudah dikonfirmasi akan hilang dari tampilan Rekonsiliasi Bank.
+
+### bila terjadi kesalahan saat rekonsiliasi, cara membatalkannya adalah sebagai berikut:
+
+1. Klik menu Kas & Bank | Histori Bank.
+![image](https://user-images.githubusercontent.com/93314978/161742852-356ecd3e-5db0-4cda-ab9c-90c63ababde9.png)
+
+2. Pilih akun Bank yang akan dibatalkan rekonsiliasi-nya.
+![image](https://user-images.githubusercontent.com/93314978/161742874-daf12ddd-677f-40a7-8a60-ee3213010e7a.png)
+
+3.  Pada bagian Filter Tanggal, masukan range tanggal transaksi yang akan di batalkan rekonsiliasinya, lalu klik Refresh.
+![image](https://user-images.githubusercontent.com/93314978/161742902-e6ad8b0f-25ef-47b0-a3b3-b354f09b81b3.png)
+
+4. Selanjutnya klik checklist dari transaksi yang akan di batalkan rekonsiliasinya. 
+![image](https://user-images.githubusercontent.com/93314978/161742928-9d496b00-7c40-42c3-8544-c3c2683a0586.png)
+
+5. Akan tampil notifikasi seperti dibawah ini, kemudian klik Ya. 
+![image](https://user-images.githubusercontent.com/93314978/161742958-a1ee9481-2bbd-4a62-a55d-71d130326a7e.png)
+
+6. Transaksi yang sudah di batalkan rekonsiliasinya tidak ada tanda checklist seperti contoh di bawah ini
+![image](https://user-images.githubusercontent.com/93314978/161743003-bb2d32c9-195e-4959-bc2e-aee0585a05b7.png)
+
+7. Selanjutnya anda bisa melakukan pencocokan ulang atas transaksi yang telah dibatalkan rekonsiliasi-nya tersebut dari menu Rekonsiliasi Bank.
