@@ -1,4 +1,3 @@
-
 ### menjelaskan bagaimana proses uang keluar.
 pada saat menerima invoice atau nota atau bukti pembayaran lain, yang perlu dilakukan adalah:
 
@@ -9,16 +8,39 @@ pada saat menerima invoice atau nota atau bukti pembayaran lain, yang perlu dila
 
 selanjutnya adalah melakukan pernjurnalan menggunakan aplikasi keuangan. dalam case ini, perusahaan menggunakan aplikasi accurate online. langkah yang harus dilakukan adalah:
 
-1. melakukan login ke aplikasi keuangan.
-2. memilih menu kas
-3. memilih menu kas keluar
-4. memilih post biaya
-5. memasukkan nominal kas keluar.
-6. pencet tab keterangan, tambahkan keterangan untuk apa kas keluar.
-7. pencet oke.
-8. tambahkan keterangan untuk jurnal yang telah dibuat.
-9. lalu pilih print.
-10. pilih opsi 2 page dalam 1 halaman.
-11. pilih print.
-12. setelah di print, staples bukti invoice atau nota di belakang lembar voucher yang telah di print.
-13. lalu simpan sampai proses akhir bulan.
+1. melakukan login ke aplikasi keuangan. ![image](https://user-images.githubusercontent.com/93314978/161723831-77236bf6-5a7e-4d05-8589-2b13a17f1735.png)
+2. memilih database 
+![image](https://user-images.githubusercontent.com/93314978/161724166-de5bf9b4-93bb-4482-add4-304d0f87f1e9.png)
+
+3. memilih menu kas
+4. memilih menu pembayaran 
+![image](https://user-images.githubusercontent.com/93314978/161724919-f8dac5c8-12f1-4f24-bb49-322e82b7f457.png)
+
+5. memilih kas atau bank kas dikeluarkan 
+![image](https://user-images.githubusercontent.com/93314978/161725187-77fe3e9b-f5b6-4a3a-9a3f-3cff3c290db4.png)
+
+6. memilih tanggal transaksi 
+![image](https://user-images.githubusercontent.com/93314978/161725302-f9c75dd8-1e5e-49b2-a655-502b8439200a.png)
+
+7. memilih post biaya 
+![image](https://user-images.githubusercontent.com/93314978/161725372-882dc911-1eac-430b-872f-893f64a13d07.png)
+
+8. memasukkan nominal kas keluar. 
+![image](https://user-images.githubusercontent.com/93314978/161725518-5bd9bc6c-866e-4896-9968-3b7fa2117019.png)
+
+9. memilih tab catatan, tambahkan catatan untuk apa kas keluar. 
+![image](https://user-images.githubusercontent.com/93314978/161725628-f8f25fc7-9fdb-4424-b56f-da600c19bcce.png)
+
+10. pencet lanjut.
+11. pencet tombol i, untuk membuka info lainnya dalam jurnal
+12. tambahkan catatan untuk jurnal yang telah dibuat.
+![image](https://user-images.githubusercontent.com/93314978/161725939-8a6469e5-4498-45f3-a0f2-192934a07542.png)
+
+13. tambahkan penerima kas untuk transaksi tersebut.
+![image](https://user-images.githubusercontent.com/93314978/161725953-7fa86615-4ee5-4def-bb56-1bb47dc1b9ab.png)
+
+14. lalu pilih cetak di sebelah kanan.
+![image](https://user-images.githubusercontent.com/93314978/161726148-32359a36-3af2-4143-ad7a-6da5499abe8e.png)
+
+15. setelah di cetak, staples bukti invoice atau nota di belakang lembar voucher yang telah di print.
+16. lalu simpan sampai proses akhir bulan.
