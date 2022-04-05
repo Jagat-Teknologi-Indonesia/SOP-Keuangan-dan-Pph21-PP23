@@ -1,0 +1,16 @@
+membahas cara pencatatan gaji karyawan
+
+Contoh ilustrasi misalkan Anda akan mencatat beban gaji karyawan yang sudah ditentukan komponen gaji dan tunjangannya melalui fitur [Karyawan] dan [Gaji & Tunjangan] maka Anda perlu membuat terlebih dahulu akun penampung atas beban akrual gaji tadi.
+
+1. Anda dapat membuat akun Hutang Gaji dari fitur [Akun Perkiraan] yang ada di menu Buku Besar.
+![image](https://user-images.githubusercontent.com/93314978/161745306-5700fe30-564c-46b9-aa7e-201cca81ed73.png)
+
+2. Membuat transaksi beban gaji dari menu Buku Besar | Pencatatan Gaji. Tentukan informasi Bulan, Tahun, Tanggal, dan Jatuh Tempo.
+3. Klik Tab Info Lainnya, kemudian tentukan akun akrual penampung Hutang Gaji tsb.
+![image](https://user-images.githubusercontent.com/93314978/161745350-2c2f8419-cc12-4fd6-a625-edf094767013.png)
+
+4. Pada Tab Rincian Karyawan tentukan nama karyawan dan nilai komponen beban gaji dan tunjangan pada layar popup yang keluar, kemudian klik Lanjut.
+![image](https://user-images.githubusercontent.com/93314978/161745381-9ecbaa37-4d53-46fa-9656-a3e9e8ae0786.png)
+
+5. Setelah data sudah lengkap, klik Simpan untuk menyimpan transaksi pencatatan gaji. Apabila Anda ingin mencatat pelunasan hutang gaji, Anda dapat mencatat dari menu Kas Bank | Pembayaran.
+6. dalam hal perhitungan pph 21 karyawan, tidak sama dengan perhitungan di djp, disarankan mengikuti nominal di djp. selisih perhitungan terjadi karena perbedaan cara hitung antara djp dan program accurate.
