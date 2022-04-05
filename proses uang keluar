@@ -1,1 +1,24 @@
-menjelaskan bagaimana uang keluar.
+
+### menjelaskan bagaimana proses uang keluar.
+pada saat menerima invoice atau nota atau bukti pembayaran lain, yang perlu dilakukan adalah:
+
+1. memastikan apakah sudah dibayar dari kas atau direimbust.
+2. apabila belum dibayar, kapan jatuh tempo.
+3. apabila sudah dibayar, apakah sudah di reimbust.
+4. melakukan copy apabila bukti invoice atau nota, adalah jenis yang mudah hilang dalam waktu
+
+selanjutnya adalah melakukan pernjurnalan menggunakan aplikasi keuangan. dalam case ini, perusahaan menggunakan aplikasi accurate online. langkah yang harus dilakukan adalah:
+
+1. melakukan login ke aplikasi keuangan.
+2. memilih menu kas
+3. memilih menu kas keluar
+4. memilih post biaya
+5. memasukkan nominal kas keluar.
+6. pencet tab keterangan, tambahkan keterangan untuk apa kas keluar.
+7. pencet oke.
+8. tambahkan keterangan untuk jurnal yang telah dibuat.
+9. lalu pilih print.
+10. pilih opsi 2 page dalam 1 halaman.
+11. pilih print.
+12. setelah di print, staples bukti invoice atau nota di belakang lembar voucher yang telah di print.
+13. lalu simpan sampai proses akhir bulan.
