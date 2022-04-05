@@ -1,0 +1,40 @@
+### membahas langkah langkah untuk mencatatkan asset tetap
+pada saat melakukan pembelian, menggunakan menu pembayaran kas, dapat memilih posting biaya pembelian asset untuk penempatan sementara sebelum di assetkan.
+
+untuk melakukan pengasetan, dapat mengikuti langkah langkah sebagai berikut:
+
+1. Klik menu Aset Tetap | Aset Tetap.
+![image](https://user-images.githubusercontent.com/93314978/161739746-e4467bd4-7b2f-41d1-904a-37fd653e5985.png)
+
+2. Pada tab Informasi Umum, lengkapi field Metode Penyusutan, Akun Aset, Akumulasi, Beban Penyusutan serta informasi lainnya.
+![image](https://user-images.githubusercontent.com/93314978/161739770-769765cd-c1c1-4d2c-9825-a0fd7b9c9804.png)
+
+3. Pada tab Info Lainnya, masukan Kategori Aset, Kategori Pajak dan informasi lainnya.
+![image](https://user-images.githubusercontent.com/93314978/161739799-f60503c4-2500-44b4-b283-8e6562b19f8e.png)
+
+4. Pada tab Akun Pengeluaran, masukan akun sumber dana dari aset tetap yang akan dicatat. 
+![image](https://user-images.githubusercontent.com/93314978/161739903-2f304009-29ab-4906-990f-6e6b0afc017d.png)
+
+5. Tentukan nilai aset tetap tsb pada bagian field Jumlah, lalu klik Simpan. 
+![image](https://user-images.githubusercontent.com/93314978/161739936-ee5dd936-eeb4-4e00-baba-697bc630b2b9.png)
+
+6. Klik Simpan jika telah selesai.
+7. Untuk melihat Daftar Aset Tetap yang telah Anda buat, klik pada gambar yang diberi lingkaran. 
+![image](https://user-images.githubusercontent.com/93314978/161739982-fce8591e-9fa4-4486-8f90-4264833fa37b.png)
+
+
+### apabila asset dibeli secara tunai, maka untuk Mencatat Pembelian Aset Tetap secara Tunai, dapat melakukan langkah langkah sebagai berikut:
+
+1. Buat akun baru sebagai akun perantara dengan tipe akun “Aset Lancar Lainnya”, dengan nama misalnya adalah “Transaksi Aktiva Tetap”.  Pembuatan akun baru dilakukan dari menu Buku Besar | Akun Perkiraan.
+![image](https://user-images.githubusercontent.com/93314978/161740331-284ca189-7bd0-4b5e-8322-779d60c19fc6.png)
+
+2. Kemudian masuk menu Kas & Bank | Pembayaran | pilih nama Kas/Bank yang mengeluarkan dana, dan pilih akun perkiraannya adalah “Transaksi Aktiva Tetap” | Simpan. 
+![image](https://user-images.githubusercontent.com/93314978/161740352-b72a8723-e6fb-434e-82d0-ac820170912a.png)
+![image](https://user-images.githubusercontent.com/93314978/161740388-82bcf164-28f9-4e8d-bcbc-90ceb14f4250.png)
+
+3. Selanjutnya masuk menu Aset Tetap | Aset Tetap kemudian isikan informasi aset tetap yang baru dan pada tab “Rp” pilih akun perkiraannya adalah “Transaksi Aktiva Tetap”.
+![image](https://user-images.githubusercontent.com/93314978/161740416-a24d2fd9-b9a7-4889-a91d-538a9d4172d2.png)
+![image](https://user-images.githubusercontent.com/93314978/161740429-cf83ac2a-0771-46cc-9667-66d8c44d7024.png)
+
+4. Aset Tetap sudah tercatat pada modul Aset Tetap di Accurate Online dan akan diperhitungkan dalam perhitungan penyusutan setiap bulannya saat anda melakukan proses Akhir Bulan.\
+
